@@ -1,3 +1,9 @@
+//Katherine Hansen
+//2326665
+//kahansen@chapman.edu
+//CPSC350-01
+//Assignment 1: HelloWorld
+//This program displays a Hello World message
 #include <iostream>
 
 using namespace std;
